@@ -1,20 +1,19 @@
-<h1>👋 Hi, I’m Xavier</h1>
+<h1> Hi, I’m Xavier</h1>
 <h2>💻 Cybersecurity Graduate | Network Enthusiast | Tech Explorer</h2>
 
 
 
-I am a recent Cybersecurity graduate with a profound interest in designing robust and reliable networks
 
 ## Objective
 To build on my technical experience by designing and supporting secure, high-performing IT systems
 
-## Skills
+## Projects
 
 
 | Skill                                         | Associated Project         |
 |-----------------------------------------------|----------------------------|
-| SIEM Implementation and Log Analysis          | <a href="https://google.com">Detection Lab</a>|
-| Network Traffic Monitoring and Attack Detection | <a href="https://google.com">Detection Lab</a>|
+| SIEM Implementation and Log Analysis          | |
+| Network Traffic Monitoring and Attack Detection | |
 | Security Automation with Shuffle SOAR         | SOC Automation Lab|
 | Incident Response Planning and Execution      | SOC Automation Lab|
 | Case Management with TheHive                  | SOC Automation Lab|
